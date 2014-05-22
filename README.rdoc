@@ -1,0 +1,3 @@
+== Musiquinha - API
+
+Rails backend for https://github.com/alopes/musiquinha
