@@ -39,4 +39,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'soundcloud'
+gem 'rack-cors', :require => 'rack/cors'
 
